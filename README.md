@@ -7,3 +7,7 @@
 
 let message = 'Hello world';
 alert(message);
+
+# This is a headchapter
+## This is a small chapter/sub chapter
+###### This is a Heading h6
